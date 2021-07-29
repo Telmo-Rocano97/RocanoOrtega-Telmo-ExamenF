@@ -10,9 +10,10 @@
 		<class>ec.edu.ups.entidades.Reserva</class>
 		<class>ec.edu.ups.entidades.Restuarante</class>
 		<properties>
-			<property 
+			<property
 				name="javax.persistence.schema-generation.database.action"
-				value="create" />				
+				value="create" />
 		</properties>
+
 	</persistence-unit>
 </persistence>
